@@ -1,0 +1,1 @@
+This repo is created to store assignments and classwork for CSC 305 course.
